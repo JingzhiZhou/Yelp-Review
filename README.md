@@ -5,9 +5,9 @@ The Users related information data link is: https://drive.google.com/file/d/1Bh0
 
 ## This file is created by using the following jupyter files: 
 <br />Processing initial yelp review json file.ipynb: convert the original review json into csv
-Processing initial yelp user json file.ipynb: convert the original user json into csv
-Final Data clean.ipynb: text clean and extraction of sentiment features 
-Add_user_info.ipynb: Add foreign key features and length of the review
+<br />Processing initial yelp user json file.ipynb: convert the original user json into csv
+<br />Final Data clean.ipynb: text clean and extraction of sentiment features 
+<br />Add_user_info.ipynb: Add foreign key features and length of the review
 
 ## Model file discription:
 TF-IDF ONLY.ipynb: tfidf features only
