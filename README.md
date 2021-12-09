@@ -4,7 +4,7 @@ For our model, we used a cleaned up file (Review_project_sentiment_wUser.csv): h
 The Users related information data link is: https://drive.google.com/file/d/1Bh0A4Br-AVrFJ4u5u8tDx5QJdyr6cDj1/view?usp=sharing.The file name is user_selected.csv.
 
 ## This file is created by using the following jupyter files: 
-Processing initial yelp review json file.ipynb: convert the original review json into csv
+<br />Processing initial yelp review json file.ipynb: convert the original review json into csv
 Processing initial yelp user json file.ipynb: convert the original user json into csv
 Final Data clean.ipynb: text clean and extraction of sentiment features 
 Add_user_info.ipynb: Add foreign key features and length of the review
