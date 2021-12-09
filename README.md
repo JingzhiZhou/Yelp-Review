@@ -1,4 +1,6 @@
 # Yelp-Review
+<br />Instructor: Professor Mayank Kejriwa
+<br />Contributers: Fandi Ma, Jiade Song, Yidan Sun and Jingzhi Zhou
 <br />Hello, this is group Foodie. Our project is Review Helpfulness Prediction Based on Multiple Features on Yelp dataset. Link is: https://www.yelp.com/dataset
 <br />For our model, we used a cleaned up file (Review_project_sentiment_wUser.csv): https://drive.google.com/file/d/1cVCTHLUClZObvhDZ5EpWarCSLigX-KhO/view?usp=sharing
 <br />The Users related information data link is: https://drive.google.com/file/d/1Bh0A4Br-AVrFJ4u5u8tDx5QJdyr6cDj1/view?usp=sharing.The file name is user_selected.csv.
